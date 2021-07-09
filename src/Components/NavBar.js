@@ -12,7 +12,7 @@ function Navbar() {
             <div className="collapse navbar-collapse " id="navbarNavDropdown">
                 <ul className="navbar-nav ml-auto">
                     <li className="nav-item mr-3">
-                        <NavLink to="/" exact className="c-white" activeClassName="active">
+                        <NavLink to="/myPortfolio" exact className="c-white" activeClassName="active">
                             Home
                         </NavLink>
                     </li>
